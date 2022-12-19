@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "details": "user create, update, delete",
+      "start": "2022-12-12",
+      "end": "2022-12-19",
+      "status": 30,
+      "assignee": "Ajit jadhav",
+      "id": 1
+    },
+    {
+      "details": "update functionality",
+      "start": "2022-12-17",
+      "end": "2022-12-22",
+      "status": 20,
+      "assignee": "Rohit Sharma",
+      "id": 2
+    },
+    {
+      "details": "Authentication",
+      "start": "2022-12-14",
+      "end": "2022-12-31",
+      "status": 10,
+      "assignee": "Virat Kolhi",
+      "id": 3
+    },
+    {
+      "details": "Sign Up form",
+      "start": "2022-12-24",
+      "end": "2022-12-29",
+      "status": 30,
+      "assignee": "sachin",
+      "id": 4
+    }
+  ]
+}
